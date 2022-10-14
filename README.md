@@ -3,8 +3,8 @@ Wes Luh
 Prof. Avigail Vantu
 14 October 2022
 Urban Data Mapping
-Homework 2 Write-up
 ```
+# Homework 2 Write-up
 
 ## Question 1
 Harlem and Upper Manhattan had the highest number of 311 nose complaints. I suspect that there could be several causes for these trends. The first would be inevitable noise—such as a stadium or bars. Alternatively, it could be due to population density increasing the number of calls per area but maintaining the calls per person, or just the area being noiser. Architecturural factors could also be in effect: older buildings might have less sound insulation and 
