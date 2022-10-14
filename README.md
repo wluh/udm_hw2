@@ -15,9 +15,6 @@ Looking at the descriptor for noise complaints, midtown is generally constructio
 I brought in the additional data of where businesses are, thinking that businesses could be generators of noise. However, the inverse seems to be true. The more businesses an area has, the less noise complaints there are. This could be explained by the fact that noise complaints may be mostly given at night. However, businessses are closed at night, so no complaints are called in.
 
 ## Maps
-
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 ![Businesses By NTA Map](https://raw.githubusercontent.com/wluh/udm_hw2/main/businessesbynta.png)
 ![Noise by NTA Map](https://raw.githubusercontent.com/wluh/udm_hw2/main/noisebynta.png)
 ![Location of 311 Noise Complaints Typology Map](https://raw.githubusercontent.com/wluh/udm_hw2/main/noisebytype.png)
